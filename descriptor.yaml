@@ -1,0 +1,6 @@
+code: table-example
+description: Template for ent projects
+components:
+  widgets:
+    - ui/widgets/widgets-dir/widget-table/table-descriptor.yaml
+
